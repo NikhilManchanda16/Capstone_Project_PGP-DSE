@@ -1,2 +1,4 @@
-# Exploration_and_Modelling_of_Factors_Leading_to_Readmission_of_Diabetes_Patients
- Capstone Project
+Capstone Project
+Exploration and Modelling of Factors Leading to Readmission of Diabetes Patients
+
+
